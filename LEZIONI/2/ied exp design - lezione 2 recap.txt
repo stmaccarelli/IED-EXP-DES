@@ -1,0 +1,18 @@
+Parte 1: introduzione a Processing per l'utilizzo in applicazioni audioreattive.
+- scaricare, installare, usare Processing ( da processing.org )
+- aprire gli esempi ed esplorare sketch
+- scaricare libreria Mimim (gestione audio)
+- alternativa: libreria di default processing.audio.*
+- prove di trasformazione di esempi base in esempi audioreattivi
+
+
+Parte 2: Brainstorming su ideazione di progetti perforativi audioreattivi.
+Nella fase di immaginazione sganciarsi dai limiti tecnici.
+Nella fase successiva all'immaginazione, verificare la fattibilità delle idee con i mezzi a disposizione.
+Eventualmente trasformare l'idea iniziale, semplificandola, o trovando escamotage.
+
+
+ASSIGNMENT:
+Ascoltare "Beethoven String Quartet No 4 Op 18 in C minor" https://www.youtube.com/watch?v=XqLkbg62dLg
+Isolandosi dal contesto (di notte, con gli occhi chiusi o quello che volete), fatevi guidare dalla musica ed immaginate forme, colori immagini partendo dal nero.
+Disegnate poi quello che avete immaginato con gli strumenti che preferite, partendo da un canvas nero. (photoshop, procreate, fogli neri e pastelli, pittura, ecc)

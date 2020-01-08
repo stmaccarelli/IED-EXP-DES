@@ -1,0 +1,45 @@
+
+1
+Una performance o installazione interattiva è solitamente composta da una proiezione video, da luci, suoni e/o da oggetti fisici come output, e da analisi di dati in input, che possono provenire da stream di dati online, da sensori fisici on site, da sistemi di computer vision, da AI, da analisi dei suoni, etc.
+
+2
+la progettazione di esperienze interattive, e la gestione di spazi ed ambienti preposti alla messa in opera delle stesse, è una disciplina che mette insieme competenze mutuate da diversi campi delle arti e delle tecniche.
+
+3
+Nella progettazione di una installazione o performance entrano in gioco elementi, tecniche e teorie provenienti dalla grafica, dal cinema, dall'animazione, dalla fotografia, dalla pittura, dalla scultura, dall'architettura, dalla scenografia.
+
+
+4
+Un importante punto di forza per un progettista di experiences è anche l'interesse per l'estetica della natura.
+Le proporzioni, i movimenti, le forme, i colori, i suoni, sono così radicati nella nostra psiche che è molto importante saperli astrarre e scegliere come riferimenti.
+
+5
+Il suono poi gioca una parte importante: può essere una "soundtrack" statica, può essere generato o suonato dall'installazione, oppure, ed è il caso del progetto che andremo a sviluppare assieme, può essere analizzato ed usato per pilotare la parte visiva dell'installazione.
+Il suono è un elemento fondamentale di una esperienza interattiva, ed è uno strumento fortissimo per guidare gli stati d'animo.
+È utile avere almeno un forte interesse per la musica, anche come strumento per guidare gli stati d'animo, ed attenzione per il suono utilizzato in opere cinematografiche.
+
+6
+È anche molto utile avere dei fondamenti o un interesse per la teoria della percezione, la semiotica, le neuroscienze, la psicologia, ed in generale tutte le discipline che studiano le interazioni tra l'uomo e quello che lo circonda.
+
+7
+Chiaramente è molto meglio se se le competenze sopra citate derivano da forti passioni o interessi, che portano solitamente a frequenti approfondimenti, letture, fruizioni, piuttosto che da uno studio "obbligato".
+Questo fa la differenza tra un autore ed un progettista.
+
+8
+Come sempre dovrebbe essere, a monte di tutto deve esserci un'idea, o una visione, che nel nostro caso deve necessariamente tener conto della presenza e della desiderata interazione con il pubblico.
+Bisogna quindi anche sapersi immaginare spettatore, immaginarsi nello spazio in cui dobbiamo lavorare, e partendo dal buio iniziare a costruire, visualizzare, immaginare le sensazioni che vogliamo che lo spettatore provi, le forme ed i colori che vogliamo che veda, i suoni che vogliamo che senta.
+
+9
+Entrando poi nella parte pratica, per poter progettare esperienze interattive è importante anche avere competenze tecniche che possano permetterci quantomeno di realizzare dei prototipi, di rappresentare e presentare in modo funzionale la nostra idea, e - se non vogliamo essere noi  stessi sviluppatori delle nostre opere - di saper dirigere un team di sviluppo in modo competente.
+
+10
+Oggi gli strumenti a nostra disposizione per realizzare opere esperienziali interattive sono tantissimi, cercherò di fare una panoramica delle diverse tipologie più importanti, e di focalizzarci su quelli che considero un'ottima base, semplice da imparare e versatile, dalla quale poi partire per utilizzare o costruire altri strumenti.
+
+11
+Può sembrare tutto molto impegnativo, e per certi versi lo è, ma molto probabilmente avete già tutti gli elementi che vi servono e sarà necessario semplicemente imparare a combinarli in un altro modo e con una diversa visione.
+
+12
+Questo corso sarà più pratico che teorico, e vorrei portarvi ad utilizzare gli strumenti che avete già in mano, secondo le vostre attitudini ed aspirazioni personali, e non forzarvi in ruoli che non sono nella vostra natura.
+
+13
+Divertitevi.

@@ -1,0 +1,23 @@
+BIBLIOGRAFIA
+
+-Make: Getting Started with Processing, Second Edition
+Casey Reas and Ben Fry.
+Published September 2015, Maker Media. 238 pages. Paperback.
+
+- Processing: A Programming Handbook for Visual Designers, 
+Second Edition
+Casey Reas and Ben Fry.
+Published December 2014, The MIT Press. 720 pages. Hardcover
+
+- Learning Processing, Second Edition: A Beginner's Guide to Programming Images, Animation, and Interaction
+Daniel Shiffman.
+Published August 2015, Morgan Kaufmann. 564 pages. Paperback.
+
+- The Nature of Code: Simulating Natural Systems with Processing
+Daniel Shiffman.
+Published December 2012. PDF, Web, Paperback.
+https://natureofcode.com/
+
+-Theatre and Performance Design: A Reader in Scenography
+Jane Collins, Andrew Nisbet
+Routledge, 2010 - 400 pages
